@@ -3,7 +3,7 @@ import sys
 import os
 import re,time
 import requests as r
-import wget
+import 'wget'
 os.system('clear')
 def bannar():
   print ('''\033[95m
